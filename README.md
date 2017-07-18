@@ -6,14 +6,14 @@ The web page link: https://lineageispig.github.io/ocean/ocean.html
 
 ## Contents of Website
 
-• Background of National Museum of Marine Biology and Aquarium
-• A Travel Guide
-• Date
-• Transpotation 
-• Board
-• Location
-• Official Web page
-• Cost and Fee
-• Estimate time travel
+- • Background of National Museum of Marine Biology and Aquarium
+- • A Travel Guide
+- • Date
+- • Transpotation 
+- • Board
+- • Location
+- • Official Web page
+- • Cost and Fee
+- • Estimate time travel
 
 
